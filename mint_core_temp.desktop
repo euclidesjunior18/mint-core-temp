@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Mint Core Temp
+GenericName=Monitor de Temperatura da CPU
+Comment=Monitora a temperatura do processador na bandeja do sistema
+Exec=/home/junior/Documentos/monitor_temp/core_temp.py
+Icon=/home/junior/Documentos/monitor_temp/icon.png
+Terminal=false
+Categories=System;Monitor;Utility;HardwareSettings;
+Keywords=cpu;temperatura;coretemp;hardware;sensor;monitor;
+StartupNotify=false
+X-GNOME-Autostart-enabled=true
